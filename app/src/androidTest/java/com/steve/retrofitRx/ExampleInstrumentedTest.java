@@ -1,4 +1,4 @@
-package com.steve.retrofit1;
+package com.steve.retrofitRx;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
